@@ -1,2 +1,2 @@
-# car-rental-php
-Created simple css car rental website  
+# CarRental
+Car rental management website based on php as a backend for univ web project
